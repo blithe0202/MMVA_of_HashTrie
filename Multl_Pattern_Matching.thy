@@ -1,4 +1,4 @@
-theory Multl_Pattern_Matching
+theory Multi_Pattern_Matching
   imports HashTrie HashTrie_TM
 begin
 (*---------------------------Multi-pattern matching based on HashTrie---------------------------*)
