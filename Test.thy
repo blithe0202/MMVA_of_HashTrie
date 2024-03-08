@@ -1,5 +1,5 @@
 theory Test
-  imports Multl_Pattern_Matching
+  imports Multi_Pattern_Matching
 begin
 (*--------------------------------------Multi-pattern matching-----------------------------------------------*)
 (*----------------------------------------------case 1-------------------------------------------------------*)
